@@ -4,6 +4,7 @@ This project provides a comprehensive, flexible, and targeted data collection se
 **📖 Table of Contents**
 
 • Overview
+
 • Supported Platforms and Key Features
 
  1. Shopee (E-commerce Data)
@@ -18,8 +19,11 @@ This project provides a comprehensive, flexible, and targeted data collection se
 
 
 • Targeted Collection Capabilities
+
 • Business Solutions
+
 • Service Advantages
+
 • Target Audience
 
 **💡 Overview**
@@ -36,10 +40,15 @@ Targeting the vibrant e-commerce markets, particularly in Southeast Asia and Lat
 
 
 **Store Details** - Comprehensive metrics and information for individual Shopee stores.
+
 **Product Details** - In-depth data on specific products, including specifications, pricing, and historical performance.
+
 **Category & Keyword Data** - Aggregated data related to specific product categories and search keywords.
+
 **Price & Sales Performance** - Tracking of pricing strategies, sales volumes, and revenue trends.
+
 **Review & Rating Data** - Collection of customer feedback, ratings, and review text for sentiment analysis.
+
 **New Arrivals & Changes** - Monitoring of new store listings and modifications to existing products.
 
 **2. TikTok (Social Media & Short-Form Video Data) 🎶**
@@ -48,10 +57,15 @@ For insights into trending content, creator performance, and audience engagement
 
 
 **User Profiles** - Public profile information, follower counts, and engagement metrics.
+
 **Video Details** - Video metadata, views, likes, comments, shares, and trending status.
+
 **Hashtag & Trend Analysis** - Data on popular hashtags, trending topics, and associated content.
+
 **Comment & Engagement** - Data Analysis of user comments and interaction patterns.
+
 **Ad Campaign Insights** - (Limited to publicly available data) Information on ad creatives and performance.
+
 
 **3. Facebook (Social Media & Community Data) 📘**
 
@@ -59,10 +73,15 @@ To understand audience demographics, content performance, and community interact
 
 
 **Page & Group Insights** - Public data on page/group activity, follower growth, and engagement.
+
 **Post Performance** - Metrics for individual posts, including likes, comments, shares, and reach (public data).
+
 **User Demographics** - (Aggregated, anonymized public data) Insights into audience characteristics.
+
 **Ad Library Data** - Publicly available information from Facebook Ad Library for competitor analysis.
+
 **Event Data** - Details on public events, attendees, and engagement.
+
 
 **4. YouTube (Video Content & Creator Data) ▶️**
 
@@ -70,10 +89,15 @@ For in-depth analysis of video content, channel performance, and audience behavi
 
 
 **Channel Analytics** - Public channel statistics, subscriber growth, and video upload patterns.
+
 **Video Performance** - Views, likes, dislikes, comments, and engagement rates for individual videos.
+
 **Keyword & Topic Trends** - Data on popular search terms, video topics, and content categories.
+
 **Comment Sentiment Analysis** - Analysis of comments to gauge audience sentiment towards videos.
+
 **Competitor Channel Monitoring** - Tracking of competitor channels and their content strategies.
+
 
 
 **5. KeeTa (Food Delivery Data) 🍜**
@@ -82,11 +106,17 @@ For insights into the food delivery market, restaurant performance, and menu tre
 
 
 **Restaurant Details** - Information on restaurants, including location, operating hours, and ratings.
+
 **Menu Data** - Detailed menu items, prices, ingredients, portion sizes, and daily specials.
+
 **Pricing & Promotions** - Real-time pricing, discounts, and promotional offers.
+
 **Delivery Logistics** - Delivery times, fees, and service areas.
+
 **Customer Reviews** - User reviews and ratings for restaurants and specific dishes.
+
 **Order Patterns** - (Aggregated, anonymized public data) Trends in popular dishes and order frequency.
+
 
 
 **🎯 Targeted Collection Capabilities**
@@ -118,25 +148,39 @@ Discover potential products, analyze popular content, study successful marketing
 **💪 Service Advantages**
 
 • **Multi-Platform Coverage:** Unified data acquisition across Shopee, TikTok, Facebook, YouTube, and KeeTa.
+
 • **Directional Collection:** Accurate crawling based on keywords, categories, links, user IDs, hashtags, and other custom conditions.
+
 • **Structured Output:** Data is delivered in structured, ready-to-use formats for seamless integration into CRMs, databases, or analytics systems.
+
 • **Scalability & Automation:** Supports both batch collection and continuous, scheduled updates according to project requirements.
+
 • **Versatility:** Suitable for diverse business scenarios, from market surveys and precise sales acquisition to content strategy and operational analysis.
 
 **🧑‍💻 Target Audience**
 
 Our service is particularly beneficial for:
+
 • Cross-border e-commerce sellers & brands
+
 • Digital marketing agencies & social media managers
+
 • Brand global expansion teams
+
 • Overseas market research institutions
+
 • E-commerce service providers & SaaS tool companies
+
 • Data marketing and precise customer acquisition teams
+
 • Content creators & media strategists
+
 • Companies looking to expand their digital footprint and market intelligence
+
 
 **🚀 Getting Started**
 
 📧 Contact Us
+
 For business inquiries, partnerships, or support, please reach out to our sales team at daniellehallasgo@gmail.com.
 
